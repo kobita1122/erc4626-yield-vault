@@ -1,0 +1,9 @@
+{
+  "name": "erc4626-yield-vault",
+  "version": "1.0.0",
+  "description": "Standardized Yield-Bearing Vault",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
